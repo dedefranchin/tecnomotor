@@ -1,6 +1,6 @@
 # Desafio Tecnomotor
 
-Este é um projeto de aplicativo Android desenvolvido como parte do desafio técnico da Tecnomotor. O aplicativo funciona como um catálogo de montadoras e veículos, permitindo a visualização e edição dos dados de mesmo estando offline.
+Este é um projeto de aplicativo Android desenvolvido como parte do desafio técnico da Tecnomotor. O aplicativo funciona como um catálogo de montadoras e veículos, permitindo a visualização e edição dos dados mesmo estando offline.
 
 ## Descrição do Projeto
 
